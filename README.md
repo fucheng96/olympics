@@ -1,10 +1,10 @@
 **Table of Contents**
 
-1. [Installation]#Installation
-2. Project Motivation
-3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
+1. [Installation](Installation)
+2. [Project Motivation](Project Motivation)
+3. [File Descriptions](File Descriptions)
+4. [Results](Results)
+5. [Licensing, Authors, and Acknowledgements](Licensing, Authors, and Acknowledgements)
 
 #**Installation**
 
@@ -30,7 +30,8 @@ The full set of files related to this course are owned by Udacity, so they are n
 There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
 There is an additional .py file that runs the necessary code to obtain the final model used to predict salary.
-Results
+
+**Results**
 
 The main findings of the code can be found at the post available here.
 

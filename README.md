@@ -32,7 +32,12 @@ The notebook is exploratory in analyzing the data in relation to the questions a
 
 **Results**
 
-The key findings of this analysis can be found at the Medium post available [here]().
+The key findings of this analysis are:
+- Key finding 1
+- Key finding 2
+- Key finding 3
+
+More information can be found at the Medium post available [here]().
 
 **Licensing, Authors, Acknowledgements**
 

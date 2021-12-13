@@ -32,8 +32,8 @@ The notebook is exploratory in analyzing the data in relation to the questions a
 
 **Results**
 
-The main findings of this analysis can be found at the Medium post available [here]().
+The key findings of this analysis can be found at the Medium post available [here]().
 
 **Licensing, Authors, Acknowledgements**
 
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
+Credits to user named rgriffin from Kaggle that scraped the data from www.sports-reference.com. You may find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).

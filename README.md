@@ -33,11 +33,16 @@ The notebook is exploratory in analyzing the data in relation to the questions a
 **Results**
 
 The key findings of this analysis are:
-- Key finding 1
-- Key finding 2
-- Key finding 3
+1. It took around 120 years to reach gender balance. Crucial tipping points include the 1950s (afer World War II) and 1980s (after appointment of first female board members of the International Olympic Committee ('IOC'). 
+![Graph 1](https://miro.medium.com/max/1400/1*RCoIVERkbcotjoEaUnBj_A.png)
 
-More information can be found at the Medium post available [here]().
+2. Athletics and Swimming are the key sports to the rise in women's participation in the Olympics, at both tipping points.
+![Graph 2](https://miro.medium.com/max/692/1*qQ3NooB1203LxA5tVdpEMA.png)
+
+3. Western countries such as UK, USA, Australia, Russia and France that sent the most female athletes around the 1950s and continue to do so in the 1980s till this date.
+![Graph 1](https://miro.medium.com/max/1400/1*sMEh9kaUAuwUDNCwt_QW1g.png)
+
+More information can be found at the Medium post available [here](https://medium.com/@fuchengliew/30de67bb087d).
 
 **Licensing, Authors, Acknowledgements**
 

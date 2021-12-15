@@ -37,7 +37,7 @@ The key findings of this analysis are:
 - Key finding 2
 - Key finding 3
 
-More information can be found at the Medium post available [here]().
+More information can be found at the Medium post available [here](https://medium.com/@fuchengliew/30de67bb087d).
 
 **Licensing, Authors, Acknowledgements**
 

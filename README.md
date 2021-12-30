@@ -4,7 +4,7 @@
 2. [Project Motivation](#Project-Motivation)
 3. [File Descriptions](#File-Descriptions)
 4. [Results](#Results)
-5. [Acknowledgements](#Acknowledgements)
+5. [Licensing & Acknowledgements](#Licensing-&-Acknowledgements)
 
 ## Installation
 
@@ -47,6 +47,6 @@ The key findings of this analysis are:
 
 More information can be found at the Medium post available [here](https://medium.com/@fuchengliew/30de67bb087d).
 
-## Acknowledgements
+## Licensing & Acknowledgements
 
 Credits to user named rgriffin from Kaggle that scraped the data from www.sports-reference.com. You may find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).

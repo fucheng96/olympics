@@ -13,7 +13,7 @@ Libraries used were part of the standard libraries that came from the Anaconda d
 - Numpy
 - MatPlotLib
 
-## Project Motivation
+# Project Motivation
 
 For this project, I was personally interestested in the 120-year Summer Olympics (or just 'Olympics') data from 1896 to 2016 to better understand:
 - Had the Summer Olympics always been gender-balanced?

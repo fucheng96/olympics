@@ -1,10 +1,10 @@
 ## Table of Contents
 
 1. [Installation](#Installation)
-2. [Project Motivation](Project-Motivation)
-3. [File Descriptions](File-Descriptions)
-4. [Results](Results)
-5. [Acknowledgements](Acknowledgements)
+2. [Project Motivation](#Project-Motivation)
+3. [File Descriptions](#File-Descriptions)
+4. [Results](#Results)
+5. [Acknowledgements](#Acknowledgements)
 
 ## Installation
 
